@@ -1,6 +1,6 @@
-# MangaApp
+# Manweb
 
-MangaApp es una aplicación diseñada para gestionar y leer mangas. Permite organizar tu colección de mangas, realizar un seguimiento de tu progreso de lectura y acceder a una interfaz simple y fácil de usar.
+Manweb es una aplicación diseñada para gestionar y leer mangas. Permite organizar tu colección de mangas, realizar un seguimiento de tu progreso de lectura y acceder a una interfaz simple y fácil de usar.
 
 ## Características
 
@@ -19,6 +19,7 @@ MangaApp es una aplicación diseñada para gestionar y leer mangas. Permite orga
 - **Python** o cualquier otro entorno necesario (si es una aplicación de escritorio).
 
 ### Pasos para instalar
+
 
 1. Clona este repositorio:
    ```bash
